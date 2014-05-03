@@ -1,0 +1,74 @@
+body
+{
+    background-image: url(/congruent_outline.png);
+	background-position: top;
+	background-attachment: fixed;
+}
+
+header
+{
+	font-family: serif;
+	padding: 1%;
+    text-align: center;
+}
+
+#title
+{
+	font-family:serif;
+    font-size: 50px;
+    padding: 0;
+	text-align: center;
+    color: white;
+}
+
+.Text
+{
+    margin: 0;
+	text-align: center;
+    color: white;
+}
+
+div.image
+{
+	max-width: 50%;
+	max-height: 50%;
+}
+
+.Subtext
+{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 15px;
+	padding: 2%;
+    text-align: center;
+    list-style: none;
+}
+
+nav
+{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 17px;
+	margin-right: 5%;
+    margin-left: 5%;
+	padding: .5%;
+    text-align: center;
+}
+
+li
+{
+    display: inline;
+}
+
+a:visited
+{
+    color: white;
+}
+
+#book
+{
+    color: black;
+}
+
+#black
+{
+    color: black;
+}
